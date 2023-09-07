@@ -6,7 +6,9 @@
   <div style="display: inline_block">
     <img align="right" src="files/foto.jpeg" width="180">
   </div>
-  Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+  Sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC Jessen Vidal, onde venho aprimorando minhas habilidades na área de tecnologia, sempre querendo buscar novos conhecimentos e desafios.
+
+  Atualmente, tenho a oportunidade de atuar como estagiária no INPE, desempenhando um papel essencial no desenvolvimento do back-end e na integração com a interface front-end. Esta experiência vem contribuindo para projetos significativos e ampliando ainda mais meu conhecimento na área.
 </div>
 
 ## Contatos
@@ -18,8 +20,7 @@
 </a> 
 
 ## Principais Conhecimentos 💡
-<img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=flask"/> 
-
+<img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=flask"/> <img src="https://skillicons.dev/icons?i=python"/> 
 
 ## 🖥️ Projetos 
 <div align="center">
