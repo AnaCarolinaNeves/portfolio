@@ -6,7 +6,7 @@
   <div style="display: inline_block">
     <img align="right" src="files/foto.jpeg" width="180">
   </div>
-  Sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC Jessen Vidal, onde venho aprimorando minhas habilidades na área de tecnologia, sempre querendo buscar novos conhecimentos e desafios.
+  Sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC Jessen Vidal. Tenho focado em aprimorar minhas habilidades na área de tecnologia, buscando constantemente novos conhecimentos e desafios.
 
   Atualmente, tenho a oportunidade de atuar como estagiária no INPE, desempenhando um papel essencial no desenvolvimento do back-end e na integração com a interface front-end. Esta experiência vem contribuindo para projetos significativos e ampliando ainda mais meu conhecimento na área.
 </div>
