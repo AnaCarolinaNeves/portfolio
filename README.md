@@ -12,7 +12,7 @@
 ## Contatos
 * [GIT](https://github.com/AnaCarolinaNeves) | [LinkedIn](https://www.linkedin.com/in/ana-carolina-neves-36aa68207/)
 
-## Principais Conhecimentos
+## Principais Conhecimentos 💡
 <img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=flask"/> 
 
 
@@ -26,7 +26,16 @@
     <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/Logo%203.png" width="300">
 </div>
 <span id="1sem">
-O objetivo desse projeto é criar um site que exibirá todos os projetos de Aprendizagem por Projeto Integrador da FATEC SJC, através de diferentes fontes de dados, a seguir, fornecê-los para o cliente. A função desse projeto é solucionar todas as questões que envolvem os APIs anteriores para que assim o cliente consiga ter total acesso e para que não haja perda dos projetos.
+A visualização dos projetos de Aprendizagem por Projeto Integrador da Fatec SJC era feita atráves do site da Fatec. No entanto, ao selecionar uma equipe desejada, apenas o link do YouTube era disponibilizado, com o GitHub da equipe na descrição do vídeo. Isso apresentou um problema crítico, pois o cliente não tinha controle direto sobre os projetos, tornando-os vulneráveis à perda caso os repositórios fossem excluídos. O desafio central identificado foi a incerteza se os projetos no GitHub estariam sempre disponíveis e protegidos.
+
+A solução consistiu na clonagem de todos os APIs e na criação de uma página web com os projetos em um formato organizado e de fácil navegação. Para tornar o processo de coleta dos links do YouTube mais eficiente, foi desenvolvido também um sistema automatizado de raspagem das URLs do canal da Fatec SJC.
+
+### Resultado Final ✅
+
+<div style="display: inline">
+  <img align="left" src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif">
+  <img align="right" src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/backlog.png">
+</div>
 
 #### Tecnologias Utilizadas
 * CSS3: Estilização do site
