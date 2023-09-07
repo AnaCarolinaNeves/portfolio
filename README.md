@@ -10,7 +10,12 @@
 </div>
 
 ## Contatos
-* [GIT](https://github.com/AnaCarolinaNeves) | [LinkedIn](https://www.linkedin.com/in/ana-carolina-neves-36aa68207/)
+<a href="https://www.linkedin.com/in/ana-carolina-neves-36aa68207/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+</a>
+<a href="https://github.com/AnaCarolinaNeves" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"> 
+</a> 
 
 ## Principais Conhecimentos 💡
 <img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=flask"/> 
@@ -30,12 +35,10 @@ A visualização dos projetos de Aprendizagem por Projeto Integrador da Fatec SJ
 
 A solução consistiu na clonagem de todos os APIs e na criação de uma página web com os projetos em um formato organizado e de fácil navegação. Para tornar o processo de coleta dos links do YouTube mais eficiente, foi desenvolvido também um sistema automatizado de raspagem das URLs do canal da Fatec SJC.
 
-### Resultado Final ✅
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
 
-<div style="display: inline">
-  <img align="left" src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif">
-  <img align="right" src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/backlog.png">
-</div>
+### Resultado Final ✅
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif"> </p>
 
 #### Tecnologias Utilizadas
 * CSS3: Estilização do site
@@ -48,11 +51,16 @@ A solução consistiu na clonagem de todos os APIs e na criação de uma página
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
-Scrum Master
+Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+* HTML e CSS: Desenvolvimento web
+* Python: Raspagem de dados
+* Git: Controle de versionamento
+* Figma e Whimsical: Prototipagem
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Ouvir e compreender os outros
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Compartilhar responsabilidades e contribuir ativamente para objetivos compartilhados
+* Gestão do Tempo: Capacidade de gerenciar tarefas e projetos de forma eficiente, priorizando atividades e cumprindo prazos.
+
