@@ -8,7 +8,7 @@
   </div>
   Sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC Jessen Vidal. Tenho focado em aprimorar minhas habilidades na área de tecnologia, buscando constantemente novos conhecimentos e desafios.
 
-  Atualmente, tenho a oportunidade de atuar como estagiária no INPE, desempenhando um papel essencial no desenvolvimento do back-end e na integração com a interface front-end. Esta experiência vem contribuindo para projetos significativos e ampliando ainda mais meu conhecimento na área.
+  Atualmente, tenho a oportunidade de atuar como estagiária no INPE, fazendo parte da SEPEC, onde estou envolvida no desenvolvimento do 3PST, um sistema para o cadastramento de projetos internos. Anteriormente, esse cadastro era feito por meio do Microsoft Access, mas agora, trabalhamos na transformação desse sistema em uma aplicação web. Na equipe, estou focada no back-end, utilizando tecnologias como Python com Flask, e também estou contribuindo para o front-end com HTML, CSS e JavaScript. Esta experiência vem contribuindo para projetos significativos e ampliando ainda mais meu conhecimento na área.
 </div>
 
 ## Contatos
