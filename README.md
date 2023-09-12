@@ -71,11 +71,11 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 ### 2022-1 | [GIT](https://github.com/EquipeApolo/API-2-Semestre)
 <span id="2sem">
 O projeto tem como finalidade organizar a comunicação da empresa com os clientes, desenvolvendo um sistema que possibilita o cadastro de mensagens enviadas para a empresa Pro4Tech por outros meios, como SMS, Whatsapp, Email e outros. O ideal é que essas mensagens possam ser acessadas pela própria aplicação, onde o cliente, adm e suporte também possa enviar mensagens para algum usuário individualmente ou para vários usuários por meio de um projeto específico.
-
-<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
+<br><br/>
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/2%C2%B0Semestre/backlog.png" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif"> </p>
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/2%C2%B0Semestre/V%C3%ADdeo%20Final.mp4"> </p>
 
 #### Tecnologias Utilizadas
 * Java Desktop: Linguagem
