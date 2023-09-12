@@ -24,7 +24,8 @@
 
 ## 🖥️ Projetos 
 <div align="center">
-    <a href="#1sem"> 1° Semestre 2021-1</a>
+    <a href="#1sem"> 1° Semestre 2021-2</a> | 
+    <a href="#2sem"> 2° Semestre 2022-1</a> |
 </div>
 
 ### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
@@ -65,3 +66,34 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 * Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Compartilhar responsabilidades e contribuir ativamente para objetivos compartilhados
 * Gestão do Tempo: Capacidade de gerenciar tarefas e projetos de forma eficiente, priorizando atividades e cumprindo prazos.
 
+<hr/>
+
+### 2022-1 | [GIT](https://github.com/EquipeApolo/API-2-Semestre)
+<span id="2sem">
+O projeto tem como finalidade organizar a comunicação da empresa com os clientes, desenvolvendo um sistema que possibilita o cadastro de mensagens enviadas para a empresa Pro4Tech por outros meios, como SMS, Whatsapp, Email e outros. O ideal é que essas mensagens possam ser acessadas pela própria aplicação, onde o cliente, adm e suporte também possa enviar mensagens para algum usuário individualmente ou para vários usuários por meio de um projeto específico.
+
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
+
+### Resultado Final ✅
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif"> </p>
+
+#### Tecnologias Utilizadas
+* Java Desktop: Linguagem
+* MySQL: Banco de Dados
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* NetBeans: Hospedagem do site
+* BRModelo: Diagramas
+* Lucid: Editor gráfico
+* Whimsical: Prototipagem
+
+#### Contribuições Pessoais
+Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
+
+#### Hard Skills
+*
+*
+
+#### Soft Skills
+*
+*
