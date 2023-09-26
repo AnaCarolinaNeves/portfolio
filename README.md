@@ -26,6 +26,7 @@
 <div align="center">
     <a href="#1sem"> 1° Semestre 2021-2</a> | 
     <a href="#2sem"> 2° Semestre 2022-1</a> |
+    <a href="#3sem"> 3° Semestre 2022-2</a> |
 </div>
 
 ### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
@@ -82,13 +83,44 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 * MySQL: Banco de Dados
 * Git: Versionamento
 * GitHub: Hospedagem de código
-* NetBeans: Hospedagem do site
+* NetBeans: Codificação
 * BRModelo: Diagramas
 * Lucid: Editor gráfico
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
 Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
+
+#### Hard Skills
+*
+*
+
+#### Soft Skills
+*
+*
+
+<hr/>
+### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
+<span id="3sem">
+O projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. Para tal cálculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
+<br><br/>
+<p align="center"> <img src ="" width="800"> </p>
+
+### Resultado Final ✅
+<p align="center"> <img src =""> </p>
+
+#### Tecnologias Utilizadas
+* HTML5 e CSS3: Linguagens de marcação
+* TypeScript: Linguagem de programação
+* MySQL: Banco de Dados
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* Node: Runtime
+* React: Framework
+* Whimsical: Prototipagem
+
+#### Contribuições Pessoais
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end.
 
 #### Hard Skills
 *
