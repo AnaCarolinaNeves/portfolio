@@ -100,6 +100,7 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 *
 
 <hr/>
+
 ### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
 <span id="3sem">
 O projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. Para tal cálculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
