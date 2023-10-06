@@ -6,9 +6,9 @@
   <div style="display: inline_block">
     <img align="right" src="files/foto.jpeg" width="180">
   </div>
-  Sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC Jessen Vidal. Tenho focado em aprimorar minhas habilidades na área de tecnologia, buscando constantemente novos conhecimentos e desafios.
+  Sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec SJC Jessen Vidal. Antes de começar os meus estudos na faculdade, a tecnologia sempre esteve presente na minha vida, passava os meus dias jogando no videogame e navegando na internet. Em 2019, ganhei um concurso promovido pelo Google chamado 'Change the Game', que era voltado para jovens mulheres entre 15 e 21 anos, com o objetivo de apoiar e incentivar a representatividade feminina no mundo do desenvolvimento de jogos. Esta conquista me proporcionou a oportunidade de realizar 14 cursos na plataforma Alura, todos relacionados à criação de jogos. Ao finalizar esses cursos no final de 2020, minha paixão pela área de programação se intensificou.
 
-  Atualmente, tenho a oportunidade de atuar como estagiária no INPE, fazendo parte da SEPEC, onde estou envolvida no desenvolvimento do 3PST, um sistema para o cadastramento de projetos internos. Anteriormente, esse cadastro era feito por meio do Microsoft Access, mas agora, trabalhamos na transformação desse sistema em uma aplicação web. Na equipe, estou focada no back-end, utilizando tecnologias como Python com Flask, e também estou contribuindo para o front-end com HTML, CSS e JavaScript. Esta experiência vem contribuindo para projetos significativos e ampliando ainda mais meu conhecimento na área.
+  Atualmente, sou estagiária no INPE, fazendo parte da SEPEC, onde estou envolvida no desenvolvimento do 3PST, um sistema para o cadastramento de projetos internos. Anteriormente, esse cadastro era feito por meio do Microsoft Access, mas agora, trabalhamos na transformação desse sistema em uma aplicação web. Na equipe, estou focada no back-end, utilizando tecnologias como Python com Flask, e também estou contribuindo para o front-end com HTML, CSS e JavaScript. Esta experiência vem contribuindo para projetos significativos e ampliando ainda mais meu conhecimento na área.
 </div>
 
 ## Contatos
