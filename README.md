@@ -27,6 +27,7 @@
     <a href="#1sem"> 1° Semestre 2021-2</a> | 
     <a href="#2sem"> 2° Semestre 2022-1</a> |
     <a href="#3sem"> 3° Semestre 2022-2</a> |
+    <a href="#4sem"> 4° Semestre 2023-1</a> 
 </div>
 
 ### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
@@ -119,6 +120,42 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 * Node: Runtime
 * React: Framework
 * Whimsical: Prototipagem
+
+#### Contribuições Pessoais
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end.
+
+#### Hard Skills
+*
+*
+
+#### Soft Skills
+*
+*
+
+<hr/>
+
+### 2023-1 | [GIT](https://github.com/peonia-api/API_4_Semestre)
+<span id="4sem">
+O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. Essa plataforma deve ser capaz de receber demandas de correção urgente (hotfix) e novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, deve permitir a aprovação de novas funcionalidades por um comitê de avaliação. Com essa plataforma, a empresa poderia melhorar a comunicação interna, colaboração entre as equipes e monitorar o desempenho do processo de desenvolvimento de produtos.
+<br><br/>
+<p align="center"> <img src ="" width="800"> </p>
+
+### Resultado Final ✅
+<p align="center"> <img src =""> </p>
+
+#### Tecnologias Utilizadas
+* HTML5 e CSS3: Linguagens de marcação
+* TypeScript: Linguagem de programação
+* PostgreSQL: Banco de Dados
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* Node: Runtime
+* React: Framework
+* TypeORM: Framework
+* Figma: Prototipagem
+* DevOps: Planjemento
+* EmailJS e Nodemailer: Observer e redefinição senha
+* Google Cloud Platform: Deployment
 
 #### Contribuições Pessoais
 Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end.
