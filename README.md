@@ -74,7 +74,7 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 
 ### 2022-1 | [GIT](https://github.com/EquipeApolo/API-2-Semestre)
 <span id="2sem">
-O projeto tem como finalidade organizar a comunicação da empresa com os clientes, desenvolvendo um sistema que possibilita o cadastro de mensagens enviadas para a empresa Pro4Tech por outros meios, como SMS, Whatsapp, Email e outros. O ideal é que essas mensagens possam ser acessadas pela própria aplicação, onde o cliente, adm e suporte também possa enviar mensagens para algum usuário individualmente ou para vários usuários por meio de um projeto específico.
+A comunicação entre os clientes da empresa parceira, Pro4Tech, era feita através de diferentes meios, como SMS, Whatsapp, Email e outros. Para que as informações enviadas não sejam perdidas, a solução encontrada foi de centralizar a comunicação da empresa com os seus clientes, desenvolvendo um sistema que possibilitasse o cadastro de mensagens, seja do cliente, administrador ou suporte. Além de oferecer a funcionalidade de enviar mensagens para algum usuário individualmente ou para vários usuários por meio de um projeto específico.
 <br><br/>
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/2%C2%B0Semestre/backlog.png" width="800"> </p>
 
@@ -92,7 +92,7 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
+Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei na criação dos wireframes, utilizando o whimsical.Também participei do time responsável das páginas web, construídas em HTML5 e CSS3 e pela implementação da raspagem de dados usando Python.
 
 #### Hard Skills
 *
