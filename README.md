@@ -55,13 +55,15 @@ A solução consistiu na clonagem de todos os APIs e na criação de uma página
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, na elaboração de wireframes, na realização de reuniões de planejamento e retrospectiva. Além disso, também participei do time responsável pela construção das páginas web e pela implementação da raspagem de dados usando Python.
+Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei com a equipe na gestão de sprints, utilizando o figma para a criação dos cards das sprints e do backlog. Enquanto os wireframes foram feitos no whimsical. As reuniões de planejamento e retrospectiva foram realizadas através do Microsoft Teams. Além disso, também participei do time responsável das páginas web, construídas em HTML5 e CSS3 e pela implementação da raspagem de dados usando Python.
 
 #### Hard Skills
-* HTML e CSS: Desenvolvimento web
-* Python: Raspagem de dados
-* Git: Controle de versionamento
-* Figma e Whimsical: Prototipagem
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| HTML e CSS | Desenvolvimento web | ⭐⭐⭐⭐ | 
+| Python | Raspagem de dados | ⭐⭐ | 
+| Git | Controle de versionamento | ⭐⭐⭐ |
+| Figma e Whimsical | Prototipagem | ⭐⭐⭐ |
 
 #### Soft Skills
 * Comunicação: Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Ouvir e compreender os outros
