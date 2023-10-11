@@ -42,7 +42,7 @@ A solução consistiu na clonagem de todos os APIs e na criação de uma página
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/sprints.png" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/1%C2%B0Semestre/V%C3%ADdeo%20Final.gif"> </p>
+https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/4cc5c56e-ad70-4cf5-be43-11f6d70e0abd
 
 #### Tecnologias Utilizadas
 * CSS3: Estilização do site
@@ -79,7 +79,7 @@ A comunicação entre os clientes da empresa parceira, Pro4Tech, era feita atrav
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/2%C2%B0Semestre/backlog.png" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/2%C2%B0Semestre/V%C3%ADdeo%20Final.mp4"> </p>
+https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/e45c91a2-aca5-41ca-b118-c53bcee2556e
 
 #### Tecnologias Utilizadas
 * Java Desktop: Linguagem
@@ -111,7 +111,6 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 <p align="center"> <img src ="" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src =""> </p>
 
 #### Tecnologias Utilizadas
 * HTML5 e CSS3: Linguagens de marcação
