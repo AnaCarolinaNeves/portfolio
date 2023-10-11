@@ -95,8 +95,11 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/e45c91a2-aca5-41ca
 Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei na criação dos wireframes, utilizando o whimsical.Também participei do time responsável das páginas web, construídas em HTML5 e CSS3 e pela implementação da raspagem de dados usando Python.
 
 #### Hard Skills
-*
-*
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Java | Linguagem de programação | ⭐ | 
+| MySQL | Banco de Dados | ⭐⭐ | 
+| Git | Controle de versionamento | ⭐⭐⭐ |
 
 #### Soft Skills
 *
@@ -127,8 +130,11 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3f73b6cb-bb7b-4a70
 Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end.
 
 #### Hard Skills
-*
-*
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| TypeScript | Linguagem de programação | ⭐⭐⭐ | 
+| React | Framework | ⭐⭐⭐⭐ | 
+| Git | Controle de versionamento | ⭐⭐⭐ |
 
 #### Soft Skills
 *
