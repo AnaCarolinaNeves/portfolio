@@ -108,9 +108,10 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 <span id="3sem">
 O projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. Para tal cálculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
 <br><br/>
-<p align="center"> <img src ="" width="800"> </p>
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/3%C2%B0Semestre/backlog.png" width="800"> </p>
 
 ### Resultado Final ✅
+https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3f73b6cb-bb7b-4a70-be4e-421a72ed3d2a
 
 #### Tecnologias Utilizadas
 * HTML5 e CSS3: Linguagens de marcação
