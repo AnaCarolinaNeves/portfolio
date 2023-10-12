@@ -66,10 +66,9 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 | Figma e Whimsical | Prototipagem | ⭐⭐⭐ |
 
 #### Soft Skills
-* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, tanto na fala quanto na escrita. Ouvir e compreender os outros
-* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Compartilhar responsabilidades e contribuir ativamente para objetivos compartilhados
-* Gestão do Tempo: Capacidade de gerenciar tarefas e projetos de forma eficiente, priorizando atividades e cumprindo prazos.
-
+* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, ouvir e compreender os outros. Comunicação entre a equipe para entender e definir os requisitos do projeto.
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Orgaizar daily scrum para debater o andamento do projeto e a entrega das tarefas no prazo.
+* Gestão do Tempo: Capacidade de gerenciar tarefas e projetos. Utilização do burndown chart para acompanhar o progresso das tarefas e os prazos do projeto.
 <hr/>
 
 ### 2022-1 | [GIT](https://github.com/EquipeApolo/API-2-Semestre)
