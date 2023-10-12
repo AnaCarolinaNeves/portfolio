@@ -126,7 +126,7 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3f73b6cb-bb7b-4a70
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end.
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end, contribuindo para a criação das telas utilizando o framework React.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
