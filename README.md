@@ -91,7 +91,7 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/e45c91a2-aca5-41ca
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e estive ativamente envolvida em diversas áreas. Colaborei na criação dos wireframes, utilizando o whimsical.Também participei do time responsável das páginas web, construídas em HTML5 e CSS3 e pela implementação da raspagem de dados usando Python.
+Durante o processo de desenvolvimento do projeto, atuei como Scrum Master. Colaborei na criação dos wireframes, utilizando o whimsical. E também participei na estilização e criação das telas que foram feitas em Java.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
@@ -101,9 +101,9 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 | Git | Controle de versionamento | ⭐⭐⭐ |
 
 #### Soft Skills
-*
-*
-
+* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, ouvir e compreender os outros. Comunicação entre a equipe para entender e definir os requisitos do projeto.
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Orgaizar daily scrum para debater o andamento do projeto e a entrega das tarefas no prazo.
+* Gestão do Tempo: Capacidade de gerenciar tarefas e projetos. Utilização do burndown chart para acompanhar o progresso das tarefas e os prazos do projeto.
 <hr/>
 
 ### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
