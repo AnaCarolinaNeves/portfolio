@@ -165,11 +165,14 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3aba6622-9821-4d4e
 * Google Cloud Platform: Deployment
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end.
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end, tornando as telas funcionais, assim como exibindo o histórico e listagem dos chamados.
 
 #### Hard Skills
-*
-*
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| TypeScript | Linguagem de programação | ⭐⭐⭐ | 
+| React | Framework | ⭐⭐⭐⭐ | 
+| Git | Controle de versionamento | ⭐⭐⭐ |
 
 #### Soft Skills
 *
