@@ -145,10 +145,10 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 <span id="4sem">
 O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. Essa plataforma deve ser capaz de receber demandas de correção urgente (hotfix) e novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, deve permitir a aprovação de novas funcionalidades por um comitê de avaliação. Com essa plataforma, a empresa poderia melhorar a comunicação interna, colaboração entre as equipes e monitorar o desempenho do processo de desenvolvimento de produtos.
 <br><br/>
-<p align="center"> <img src ="" width="800"> </p>
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/4%C2%B0Semestre/backlog.png" width="800"> </p>
 
 ### Resultado Final ✅
-<p align="center"> <img src =""> </p>
+https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3aba6622-9821-4d4e-87d9-f26e9a3df217
 
 #### Tecnologias Utilizadas
 * HTML5 e CSS3: Linguagens de marcação
