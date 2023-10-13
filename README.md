@@ -143,7 +143,7 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 
 ### 2023-1 | [GIT](https://github.com/peonia-api/API_4_Semestre)
 <span id="4sem">
-O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. Essa plataforma deve ser capaz de receber demandas de correção urgente (hotfix) e novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, deve permitir a aprovação de novas funcionalidades por um comitê de avaliação. Com essa plataforma, a empresa poderia melhorar a comunicação interna, colaboração entre as equipes e monitorar o desempenho do processo de desenvolvimento de produtos.
+Em parceria com a IonicHealth, o desafio encontrado foi a otimização do gerenciamento de demandas internas. O processo anterior, que envolvia a gestão de correções urgentes (hotfix) e novas funcionalidades (feature), estava fragmentado, prejudicando a comunicação interna e a colaboração entre as equipes. A solução consistiu no desenvolvimento de uma plataforma personalizada que centraliza e prioriza as demandas, direcionando-as eficientemente para as equipes responsáveis. Além disso, um sistema de aprovação para novas funcionalidades foi implementado, permitindo que um comitê realizasse avaliações para decisões de chamados. 
 <br><br/>
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/4%C2%B0Semestre/backlog.png" width="800"> </p>
 
