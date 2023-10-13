@@ -133,7 +133,7 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 |:---------:|:---------:|:---------:|
 | TypeScript | Linguagem de programação | ⭐⭐⭐ | 
 | React | Framework | ⭐⭐⭐⭐ | 
-| Node | Controle de versionamento | ⭐⭐⭐ |
+| Node | Runtime | ⭐⭐⭐ |
 
 #### Soft Skills
 *
