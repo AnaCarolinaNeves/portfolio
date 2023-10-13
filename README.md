@@ -143,7 +143,7 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 
 ### 2023-1 | [GIT](https://github.com/peonia-api/API_4_Semestre)
 <span id="4sem">
-Em parceria com a IonicHealth, o desafio encontrado foi a otimização do gerenciamento de demandas internas. O processo anterior, que envolvia a gestão de correções urgentes (hotfix) e novas funcionalidades (feature), estava fragmentado, prejudicando a comunicação interna e a colaboração entre as equipes. A solução consistiu no desenvolvimento de uma plataforma personalizada que centraliza e prioriza as demandas, direcionando-as eficientemente para as equipes responsáveis. Além disso, um sistema de aprovação para novas funcionalidades foi implementado, permitindo que um comitê realizasse avaliações para decisões de chamados. 
+Em parceria com a IonicHealth, o desafio encontrado foi a otimização do gerenciamento de demandas internas. O processo anterior, que envolvia a gestão de correções urgentes (hotfix) e novas funcionalidades (feature), estava fragmentado, prejudicando a comunicação interna e a colaboração entre as equipes. A solução consistiu no desenvolvimento de uma plataforma personalizada que centraliza e prioriza as demandas, direcionando-as eficientemente para as equipes responsáveis. Além disso, um sistema de aprovação para novas funcionalidades foi implementado, permitindo que um comitê realizasse avaliações para tomar decisões em relação aos chamados. 
 <br><br/>
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/4%C2%B0Semestre/backlog.png" width="800"> </p>
 
