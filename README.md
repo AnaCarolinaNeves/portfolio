@@ -133,7 +133,7 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 |:---------:|:---------:|:---------:|
 | TypeScript | Linguagem de programação | ⭐⭐⭐ | 
 | React | Framework | ⭐⭐⭐⭐ | 
-| Git | Controle de versionamento | ⭐⭐⭐ |
+| Node | Controle de versionamento | ⭐⭐⭐ |
 
 #### Soft Skills
 *
@@ -172,7 +172,7 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 |:---------:|:---------:|:---------:|
 | TypeScript | Linguagem de programação | ⭐⭐⭐ | 
 | React | Framework | ⭐⭐⭐⭐ | 
-| Git | Controle de versionamento | ⭐⭐⭐ |
+| PostgreSQL | Controle de versionamento | ⭐⭐ |
 
 #### Soft Skills
 *
