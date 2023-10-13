@@ -101,9 +101,8 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master. Colab
 | Git | Controle de versionamento | ⭐⭐⭐ |
 
 #### Soft Skills
-* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, ouvir e compreender os outros. Comunicação entre a equipe para entender e definir os requisitos do projeto.
-* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Orgaizar daily scrum para debater o andamento do projeto e a entrega das tarefas no prazo.
 * Gestão do Tempo: Capacidade de gerenciar tarefas e projetos. Utilização do burndown chart para acompanhar o progresso das tarefas e os prazos do projeto.
+* Adaptabilidade: Capacidade de se ajustar a uma nova linguagem de programação, como Java, por meio de pesquisa e prática.
 <hr/>
 
 ### 2022-2 | [GIT](https://github.com/EquipeApolo/API_3_Semestre)
@@ -136,8 +135,8 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 | Node | Runtime | ⭐⭐⭐ |
 
 #### Soft Skills
-*
-*
+* Adaptabilidade: Capacidade de se ajustar a uma nova linguagem de programação, como TypeScript, por meio de pesquisa e prática.
+* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
 
 <hr/>
 
@@ -172,8 +171,8 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 |:---------:|:---------:|:---------:|
 | TypeScript | Linguagem de programação | ⭐⭐⭐ | 
 | React | Framework | ⭐⭐⭐⭐ | 
-| PostgreSQL | Controle de versionamento | ⭐⭐ |
+| PostgreSQL | Banco de Dados | ⭐⭐ |
 
 #### Soft Skills
-*
-*
+* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com uma equipe composta por oito integrantes. Ao longo do projeto, estabelecemos um ambiente de comunicação aberta e respeitosa, onde todos os membros puderam compartilhar suas ideias e opiniões
