@@ -142,6 +142,9 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 <hr/>
 
 ### 2023-1 | [GIT](https://github.com/peonia-api/API_4_Semestre)
+<div style="display: inline_block">
+    <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/5%C2%B0Semestre/icon.png" width="140">
+</div>
 <span id="4sem">
 Em parceria com a IonicHealth, o desafio encontrado foi a otimização do gerenciamento de demandas internas. O processo anterior, que envolvia a gestão de correções urgentes (hotfix) e novas funcionalidades (feature), estava fragmentado, prejudicando a comunicação interna e a colaboração entre as equipes. A solução consistiu no desenvolvimento de uma plataforma personalizada que centraliza e prioriza as demandas, direcionando-as eficientemente para as equipes responsáveis. Além disso, um sistema de aprovação para novas funcionalidades foi implementado, permitindo que um comitê realizasse avaliações para tomar decisões em relação aos chamados. 
 <br><br/>
@@ -181,6 +184,9 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 <hr/>
 
 ### 2023-2 | [GIT](https://github.com/peonia-api/API_5_Semestre)
+<div style="display: inline_block">
+    <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/5%C2%B0Semestre/icon.png" width="140">
+</div>
 <span id="5sem">
 o projeto consiste no desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. Esse aplicativo deve ainda ser capaz de garantir a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e exibindo esses equipamentos em tempo real nos mapas (conforme a posição geográfica do usuário em um raio de 10km).
 <br><br/>
