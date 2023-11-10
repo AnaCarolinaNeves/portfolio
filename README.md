@@ -27,7 +27,8 @@
     <a href="#1sem"> 1° Semestre 2021-2</a> | 
     <a href="#2sem"> 2° Semestre 2022-1</a> |
     <a href="#3sem"> 3° Semestre 2022-2</a> |
-    <a href="#4sem"> 4° Semestre 2023-1</a> 
+    <a href="#4sem"> 4° Semestre 2023-1</a> |
+    <a href="#5sem"> 5° Semestre 2023-2</a>
 </div>
 
 ### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
@@ -176,3 +177,43 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 #### Soft Skills
 * Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
 * Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com uma equipe composta por oito integrantes. Ao longo do projeto, estabelecemos um ambiente de comunicação aberta e respeitosa, onde todos os membros puderam compartilhar suas ideias e opiniões
+
+<hr/>
+
+### 2023-2 | [GIT](https://github.com/peonia-api/API_5_Semestre)
+<span id="5sem">
+o projeto consiste no desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. Esse aplicativo deve ainda ser capaz de garantir a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e exibindo esses equipamentos em tempo real nos mapas (conforme a posição geográfica do usuário em um raio de 10km).
+<br><br/>
+<p align="center"> <img src ="" width="800"> </p>
+
+### Resultado Final 🕗
+Em breve
+
+#### Tecnologias Utilizadas
+* HTML5 e CSS3: Linguagens de marcação
+* TypeScript: Linguagem de programação
+* TypeORM: Framework
+* PostgreSQL: Banco de Dados SQL
+* MongoDB: Banco de Dados NoSQL
+* Figma: Prototipagem
+* DevOps: Planjemento
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* Node: Runtime
+* React Native: Framework
+* API Expo Geolocation: API de Geolocalização
+* Docker: Microserviços relativos à integração Front End e Back End
+* Azure: Cloud usada para hospedar bancos de dados
+
+#### Contribuições Pessoais
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end
+
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+
+
+#### Soft Skills
+* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com uma equipe composta por oito integrantes. Ao longo do projeto, estabelecemos um ambiente de comunicação aberta e respeitosa, onde todos os membros puderam compartilhar suas ideias e opiniões
+
