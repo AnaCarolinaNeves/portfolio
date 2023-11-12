@@ -126,7 +126,7 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3f73b6cb-bb7b-4a70
 * Whimsical: Prototipagem
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive ativamente envolvida no front-end, contribuindo para a criação das telas utilizando o framework React.
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end, tornando as telas funcionais. Para a criação das telas, foi utilizado o framework React, estive presente nas telas de cadastro de usuário, aeronaves e flaps. Já no back-end utilizando TypeScript, participei na integração da listagem de usuários, aeronaves e flaps.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
@@ -136,8 +136,8 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 | Node | Runtime | ⭐⭐⭐ |
 
 #### Soft Skills
-* Adaptabilidade: Capacidade de se ajustar a uma nova linguagem de programação, como TypeScript, por meio de pesquisa e prática.
-* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
+* Adaptabilidade: Capacidade de se ajustar a duas novas tecnologias, TypeScript e React, por meio de pesquisa e prática, pois não tive nenhuma experiência com essas tecnologias. Tive que me adaptar rapidamente para conseguir entregar resultados o mais rápido possível.
+* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints, por exemplo erros e conflitos inesperados. Ao identificar esses desafios, em conjunto com a equipe implementamos soluções adequadas que não atrapalhasse o cronograma.
 
 <hr/>
 
@@ -168,7 +168,7 @@ https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/3aba6622-9821-4d4e
 * Google Cloud Platform: Deployment
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end, tornando as telas funcionais, assim como exibindo o histórico e listagem dos chamados.
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end, tornando as telas funcionais. Para a criação das telas, foi utilizado o framework React, estive presente nas telas de histórico e listagem dos chamados e cadastro de usuário e chamado, além de adicionar funcionalidades como um sistema de busca e filtro em todas as tabelas de listagens. Já no back-end utilizando TypeScript, participei na integração das listagens e na edição dos chamados e grupos.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
@@ -178,8 +178,8 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 | PostgreSQL | Banco de Dados | ⭐⭐ |
 
 #### Soft Skills
-* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
-* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com uma equipe composta por oito integrantes. Ao longo do projeto, estabelecemos um ambiente de comunicação aberta e respeitosa, onde todos os membros puderam compartilhar suas ideias e opiniões
+* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints, por exemplo erros e conflitos inesperados. Ao identificar esses desafios, em conjunto com a equipe implementamos soluções adequadas que não atrapalhasse o cronograma.
+* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com uma equipe que cresceu para oito integrantes devido à entrada de novos membros. Ao longo do projeto, focamos em estabelecer um ambiente de comunicação aberto e respeitoso. Acomodamos a integração dos novos colegas, incentivando ativamente a troca de ideias e opiniões entre todos os membros.
 
 <hr/>
 
