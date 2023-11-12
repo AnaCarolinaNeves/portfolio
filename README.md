@@ -212,14 +212,16 @@ Em breve
 * Azure: Cloud usada para hospedar bancos de dados
 
 #### Contribuições Pessoais
-Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end
+Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e estive envolvida no front-end, porém também realizei integrações entre o back-end. Para a criação das telas, foi utilizado o framework React Native, estive presente em grande parte das telas, como a de detalhes e cadastro de equipamentos, cadastro de usuários e implementação do carrossel de imagens, além de adicionar funcionalidades como um sistema de busca e filtro. Já no back-end utilizando TypeScript, participei na integração do cadastro de equipamentos e usuários.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
-|:---------:|:---------:|:---------:|
-
+|:---------:|:---------:|:---------:| 
+| React Native| Framework | ⭐⭐⭐ | 
+| MongoDB | Banco de Dados | ⭐⭐ |
+| Docker | Microserviços | ⭐⭐ |
 
 #### Soft Skills
-* Proatividade: Capacidade de tomar iniciativa nas resoluções de problemas durante as sprints.
-* Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com uma equipe composta por oito integrantes. Ao longo do projeto, estabelecemos um ambiente de comunicação aberta e respeitosa, onde todos os membros puderam compartilhar suas ideias e opiniões
+* Adaptabilidade: Capacidade de se ajustar a uma nova tecnologia, como React Native, por meio de pesquisa e prática, pois não tive nenhuma experiência com esse framework. Tive que me adaptar rapidamente para conseguir entregar resultados o mais rápido possível.
+* Gestão do Tempo: Com o início do meu estágio, aprimorei minha capacidade de gerenciar as tarefas e projetos de forma eficiente para garantir a entrega dentro dos prazos estabelecidos. Equilibrando as demandas do estágio com minhas obrigações acadêmicas
 
