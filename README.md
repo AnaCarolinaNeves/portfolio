@@ -67,7 +67,7 @@ Durante o processo de desenvolvimento do projeto, atuei como Scrum Master e esti
 | Figma e Whimsical | Prototipagem | ⭐⭐⭐ |
 
 #### Soft Skills
-* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, ouvir e compreender os outros. Comunicação entre a equipe para entender e definir os requisitos do projeto.
+* Comunicação: Habilidade de expressar ideias de forma clara e eficaz, ouvir e compreender os outros. Comunicação entre a equipe para entender e definir os requisitos do projeto. Durante o primeiro semestre, devido à pandemia do Covid-19, aprimorei minha capacidade de comunicação ao interagir virtualmente com a equipe.
 * Trabalho em Equipe: Capacidade de colaborar de forma harmoniosa e produtiva com colegas de equipe. Orgaizar daily scrum para debater o andamento do projeto e a entrega das tarefas no prazo.
 * Gestão do Tempo: Capacidade de gerenciar tarefas e projetos. Utilização do burndown chart para acompanhar o progresso das tarefas e os prazos do projeto.
 <hr/>
