@@ -188,9 +188,9 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
     <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/5%C2%B0Semestre/icon.png" width="140">
 </div>
 <span id="5sem">
-o projeto consiste no desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. Esse aplicativo deve ainda ser capaz de garantir a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e exibindo esses equipamentos em tempo real nos mapas (conforme a posição geográfica do usuário em um raio de 10km).
+O projeto visa desenvolver um aplicativo móvel para a Imagem Geosistemas, uma empresa que atua nas áreas de Saneamento, Elétrica, Telecomunicações, entre outras. Este aplicativo terá a função de gerenciar dados relativos aos equipamentos (ativos) da companhia, permitindo o cadastro, consulta, atualização e desativação desses ativos em campo, tanto online quanto offline. Essa funcionalidade é crucial para processos de manobras, onde a manutenção de equipamentos pode afetar parte da rede de serviços, impactando clientes. O aplicativo também terá a capacidade de exibir, em tempo real, a localização dos equipamentos em mapas, considerando a posição geográfica do usuário em um raio de 10km.
 <br><br/>
-<p align="center"> <img src ="" width="800"> </p>
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/5%C2%B0Semestre/backlog.png" width="800"> </p>
 
 ### Resultado Final 🕗
 Em breve
