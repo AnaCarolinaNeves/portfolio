@@ -28,7 +28,8 @@
     <a href="#2sem"> 2° Semestre 2022-1</a> |
     <a href="#3sem"> 3° Semestre 2022-2</a> |
     <a href="#4sem"> 4° Semestre 2023-1</a> |
-    <a href="#5sem"> 5° Semestre 2023-2</a>
+    <a href="#5sem"> 5° Semestre 2023-2</a> |
+    <a href="#6sem"> 6° Semestre 2024-1</a> |
 </div>
 
 ### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
@@ -224,4 +225,41 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 #### Soft Skills
 * Adaptabilidade: Capacidade de se ajustar a uma nova tecnologia, como React Native, por meio de pesquisa e prática, pois não tive nenhuma experiência com esse framework. Tive que me adaptar rapidamente para conseguir entregar resultados o mais rápido possível.
 * Gestão do Tempo: Com o início do meu estágio, aprimorei minha capacidade de gerenciar as tarefas e projetos de forma eficiente para garantir a entrega dentro dos prazos estabelecidos. Equilibrando as demandas do estágio com minhas obrigações acadêmicas
+
+<hr/>
+
+### 2024-1 | [GIT](https://github.com/peonia-api/API_6_Semestre)
+<div style="display: inline_block">
+    <img align="left" src="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/5%C2%B0Semestre/icon.png" width="140">
+</div>
+<span id="6sem">
+O projeto visa atender às demandas de monitoramento de acessos em áreas de acesso restrito, conhecidas como Red Zones, na indústria petrolífera e em embarcações de exploração de petróleo. Atualmente, o monitoramento é realizado manualmente, o que acarreta em registros propensos a falhas humanas e geração de relatórios trabalhosos. Para solucionar esse problema, a Altave Intelligent Monitoring propôs o desenvolvimento de um sistema automático para contabilização do número de pessoas que entram e saem de cada Red Zone.
+O sistema proposto visa fornecer uma interface que permita aos usuários visualizarem a quantidade de pessoas em tempo real em cada local, além de possibilitar a consulta da movimentação na região em um período determinado. Adicionalmente, o sistema deverá ser capaz de monitorar diversas Red Zones em cada departamento, garantindo acesso restrito aos dados de cada local apenas aos guardas designados, com acesso completo somente ao gerente de segurança.
+<br><br/>
+<p align="center"> Backlog </p>
+
+### Resultado Final 🕗
+Em breve
+
+#### Tecnologias Utilizadas
+* HTML5 e CSS3: Linguagens de marcação
+* Java: Linguagem de programação
+* Spring: Framework de desenvolvimento de aplicações Java.
+* PostgreSQL: Banco de Dados SQL
+* MongoDB: Banco de Dados NoSQL
+* Figma: Prototipagem
+* DevOps: Planjemento
+* Git: Versionamento
+* GitHub: Hospedagem de código
+* Node: Runtime
+* Vue.js: Framework
+* Docker: Microserviços relativos à integração Front End e Back End
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:| 
+
+#### Soft Skills
 
