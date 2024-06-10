@@ -244,7 +244,8 @@ Em breve
 #### Tecnologias Utilizadas
 * HTML5 e CSS3: Linguagens de marcação
 * Java: Linguagem de programação
-* Spring: Framework de desenvolvimento de aplicações Java.
+* Spring: Framework de desenvolvimento de aplicações Java
+* Python: Inteligência artificial
 * PostgreSQL: Banco de Dados SQL
 * MongoDB: Banco de Dados NoSQL
 * Figma: Prototipagem
@@ -256,10 +257,15 @@ Em breve
 * Docker: Microserviços relativos à integração Front End e Back End
 
 #### Contribuições Pessoais
+Durante o processo de desenvolvimento do projeto, atuei exclusivamente como Scrum Master. Fui responsável por facilitar todas as cerimônias do Scrum, incluindo o planejamento de sprint, revisão e retrospectiva. Além disso, colaborei com a equipe para remover impedimentos, garantir a transparência no progresso do projeto e promover a comunicação eficaz entre todos os membros da equipe.
 
 #### Hard Skills
 | Hard Skills | Utilização | Nível de proficiência |
-|:---------:|:---------:|:---------:| 
+|:---------:|:---------:|:---------:|
+| Vue| Framework | ⭐⭐⭐ | 
+| Python | Inteligência artificial  | ⭐⭐ |
+| Spring | Framework | ⭐⭐⭐ |
 
 #### Soft Skills
-
+* Liderança: Capacidade de liderar a equipe de desenvolvimento, facilitando a adoção de práticas ágeis e garantindo que todos os membros da equipe estivessem alinhados com os objetivos do projeto.
+* Organização: Capacidade de organizar e priorizar tarefas de maneira eficiente, utilizando ferramentas de gerenciamento ágil para garantir que o projeto estivesse dentro do cronograma e dos objetivos estabelecidos.
