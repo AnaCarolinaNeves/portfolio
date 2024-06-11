@@ -236,7 +236,7 @@ Durante o processo de desenvolvimento do projeto, atuei como desenvolvedora e es
 O projeto visa atender às demandas de monitoramento de acessos em áreas de acesso restrito, conhecidas como Red Zones, na indústria petrolífera e em embarcações de exploração de petróleo. Atualmente, o monitoramento é realizado manualmente, o que acarreta em registros propensos a falhas humanas e geração de relatórios trabalhosos. Para solucionar esse problema, a Altave Intelligent Monitoring propôs o desenvolvimento de um sistema automático para contabilização do número de pessoas que entram e saem de cada Red Zone.
 O sistema proposto visa fornecer uma interface que permita aos usuários visualizarem a quantidade de pessoas em tempo real em cada local, além de possibilitar a consulta da movimentação na região em um período determinado. Adicionalmente, o sistema deverá ser capaz de monitorar diversas Red Zones em cada departamento, garantindo acesso restrito aos dados de cada local apenas aos guardas designados, com acesso completo somente ao gerente de segurança.
 <br><br/>
-<p align="center"> Backlog </p>
+<p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/6%C2%B0Semestre/backlog.png" width="800"> </p>
 
 ### Resultado Final 🕗
 Em breve
