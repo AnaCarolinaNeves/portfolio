@@ -193,7 +193,7 @@ O projeto visa desenvolver um aplicativo móvel para a Imagem Geosistemas, uma e
 <br><br/>
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/5%C2%B0Semestre/backlog.png" width="800"> </p>
 
-### Resultado Final 🕗
+### Resultado Final ✅
 https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/a2c536b4-165e-4b31-84ab-57d0dc6179aa
 
 #### Tecnologias Utilizadas
@@ -238,8 +238,8 @@ O sistema proposto visa fornecer uma interface que permita aos usuários visuali
 <br><br/>
 <p align="center"> <img src ="https://github.com/AnaCarolinaNeves/portfolio/blob/main/files/6%C2%B0Semestre/backlog.png" width="800"> </p>
 
-### Resultado Final 🕗
-Em breve
+### Resultado Final ✅
+https://github.com/AnaCarolinaNeves/portfolio/assets/89168187/a9ca7133-7215-4b12-b0dd-e4204b03e664
 
 #### Tecnologias Utilizadas
 * HTML5 e CSS3: Linguagens de marcação
