@@ -1,10 +1,16 @@
 <div align="center">
+    <img src="https://fatecsjc-prd.azurewebsites.net/static/media/logo.b8e0d5a7.png" width="220">
+</div>
+
+<br/>
+
+<div align="center">
     <a href="#1sem"> 1° Semestre 2021-2</a> | 
     <a href="#2sem"> 2° Semestre 2022-1</a> |
     <a href="#3sem"> 3° Semestre 2022-2</a> |
     <a href="#4sem"> 4° Semestre 2023-1</a> |
     <a href="#5sem"> 5° Semestre 2023-2</a> |
-    <a href="#6sem"> 6° Semestre 2024-1</a> |
+    <a href="#6sem"> 6° Semestre 2024-1</a>
 </div>
 
 ### 2021-2 | [GIT](https://github.com/api-equipe-5/Projeto_Integrador)
