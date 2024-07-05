@@ -36,7 +36,13 @@
   <a href="https://github.com/AnaCarolinaNeves/portfolio/blob/main/fatec's%20projects/README.md" target="_blank">Clique aqui para visualizar os projetos realizados.</a>
 </p>
 
-
-
 ## 🖥️ Projetos Pessoais
+<p>
+  Além dos projetos acadêmicos, dediquei-me a desenvolver projetos pessoais que abrangem diversas áreas do desenvolvimento de software. Trabalhei em projetos focados no desenvolvimento de front-end, back-end e integração entre ambos, explorando diferentes aspectos da criação de aplicações web.
+</p>
+<p>
+  <a href="https://github.com/AnaCarolinaNeves/portfolio/blob/main/personal%20projects/README.md" target="_blank">Clique aqui para visualizar meus projetos pessoais.</a>
+</p>
+
+
 
