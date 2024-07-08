@@ -1,19 +1,21 @@
 # Índice
-* <a href="#flask-orm">Flask ORM</a>
+
+* <a href="#music-player">Music Player</a>
 * <a href="#flask-blog">Blog em Flask</a>
+* <a href="#flask-orm">Flask ORM</a>
 * <a href="#tempo">Previsão do Tempo</a>
 
-<span id="flask-orm">
-  
-## Flask ORM (Object Relational Mapper)
+<span id="music-player">
+
+## Music Player
 <p>
-  Este projeto faz uso de ORM (Object Relational Mapper) com Flask em três modelos. Dois deles utilizam templates para renderizar as páginas web, enquanto o terceiro é uma API pura. Todas as versões utilizam SQLAlchemy para mapear classes Python para tabelas do banco de dados e o psycopg2 para a interação com um banco de dados PostgreSQL. A aplicação também inclui funcionalidades básicas de CRUD (Create, Read, Update, Delete).
+  
 </p>
 
 ### Tecnologias 🛠️
-<img src="https://skillicons.dev/icons?i=python" width='40px'/> <img src="https://skillicons.dev/icons?i=flask" width='40px'/> <img src="https://skillicons.dev/icons?i=postgresql" width='40px'/>
+<img src="https://skillicons.dev/icons?i=typescript" width='40px'/> <img src="https://skillicons.dev/icons?i=react" width='40px'/> <img src="https://skillicons.dev/icons?i=html" width='40px'/> <img src="https://skillicons.dev/icons?i=css" width='40px'/> 
 
-[Repositório](https://github.com/AnaCarolinaNeves/Python-Flask)
+[Repositório](https://github.com/AnaCarolinaNeves/Music-Player)
 </span>
 
 <hr/>
@@ -29,6 +31,21 @@
 <img src="https://skillicons.dev/icons?i=python" width='40px'/> <img src="https://skillicons.dev/icons?i=flask" width='40px'/> <img src="https://skillicons.dev/icons?i=sqlite" width='40px'/>
 
 [Repositório](https://github.com/AnaCarolinaNeves/Blog_Flask)
+</span>
+
+<hr/>
+
+<span id="flask-orm">
+  
+## Flask ORM (Object Relational Mapper)
+<p>
+  Este projeto faz uso de ORM (Object Relational Mapper) com Flask em três modelos. Dois deles utilizam templates para renderizar as páginas web, enquanto o terceiro é uma API pura. Todas as versões utilizam SQLAlchemy para mapear classes Python para tabelas do banco de dados e o psycopg2 para a interação com um banco de dados PostgreSQL. A aplicação também inclui funcionalidades básicas de CRUD (Create, Read, Update, Delete).
+</p>
+
+### Tecnologias 🛠️
+<img src="https://skillicons.dev/icons?i=python" width='40px'/> <img src="https://skillicons.dev/icons?i=flask" width='40px'/> <img src="https://skillicons.dev/icons?i=postgresql" width='40px'/>
+
+[Repositório](https://github.com/AnaCarolinaNeves/Python-Flask)
 </span>
 
 <hr/>
