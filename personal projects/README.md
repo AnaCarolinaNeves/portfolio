@@ -9,7 +9,7 @@
 
 ## Music Player
 <p>
-  
+  Esta aplicação web permite adicionar músicas e reproduzi-las, oferecendo funcionalidades para controle de reprodução, como play, pause, próximo e anterior. As músicas são armazenadas em um banco de dados SQLite e gerenciadas por um backend desenvolvido em TypeScript com TypeORM.
 </p>
 
 ### Tecnologias 🛠️
