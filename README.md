@@ -1,4 +1,4 @@
-# Ana Carolina das Neves
+# 👩‍💻 Ana Carolina das Neves
 
 ## Introdução
 
@@ -7,23 +7,22 @@
     <img align="right" src="files/foto.jpeg" width="180">
   </div>
   <p>
-    Sou formada em <b>Análise e Desenvolvimento de Sistemas</b> pela FATEC São José dos Campos – Prof. Jessen Vidal (2024). Minha relação com a tecnologia começou cedo, entre videogames e internet, o que despertou minha curiosidade por como as aplicações funcionam. Em 2019, fui vencedora do concurso <i>Change the Game</i> promovido pelo Google, voltado para incentivar a representatividade feminina no desenvolvimento de jogos. Essa conquista me possibilitou realizar 14 cursos na Alura, todos relacionados à criação de jogos, reforçando minha paixão pela programação.
-  </p>
-  <p>
-    Durante a graduação, participei da metodologia <b>API (Aprendizagem por Projetos Integrados)</b>, desenvolvendo soluções reais para empresas parceiras com foco em metodologias ágeis, validação externa e aprendizado baseado em problemas reais. Tive contato com diversas tecnologias, como Java, Spring Boot, Vue.js, React, React Native, TypeScript, Docker, PostgreSQL e MySQL.
-  </p>
-  <p>
-    Em 2023, iniciei estágio no <b>Instituto Nacional de Pesquisas Espaciais (INPE)</b>, atuando na SEPEC no desenvolvimento do sistema <b>3PST 2.0</b>. O projeto consistiu na migração de cadastros internos feitos em Microsoft Access para uma aplicação web moderna. Contribuí tanto no back-end, com <b>Python e Flask</b>, quanto no front-end, utilizando <b>HTML, CSS e JavaScript</b>, além de bibliotecas como Flask-WTF.
-  </p>
-  <p>
-    Após essa experiência, trabalhei como <b>Desenvolvedora Júnior na Boostech Tecnologia</b>, prestando suporte a empresas do setor logístico. Minhas atividades incluíram correção de bugs, implementação de novas funcionalidades e manutenção de sistemas, utilizando <b>Laravel (PHP 7.4/8.3), Vue.js e PostgreSQL</b>, com versionamento no GitLab e ambiente Linux (Ubuntu/WSL).
-  </p>
-  <p>
-    Atualmente, atuo como <b>Técnica de Soluções na Imagem Geosistemas</b>, realizando desenvolvimento e suporte de aplicações web geográficas com <b>ArcGIS Experience Builder Developer Edition (React)</b>; automação e manipulação de dados espaciais com <b>Python</b>; e apoio no levantamento de requisitos, manutenção de sistemas e suporte técnico.
+    Sou desenvolvedora Full Stack formada em Análise e Desenvolvimento de Sistemas pela FATEC São José dos Campos (2024), com experiência no desenvolvimento, manutenção e evolução de sistemas de gestão no setor logístico (SGA).
+
+Atuei em projetos utilizando PHP (Laravel), Vue.js e PostgreSQL em ambientes de produção, participando da criação de funcionalidades, correção de bugs e melhoria contínua de sistemas.
+
+Tenho experiência no Instituto Nacional de Pesquisas Espaciais (INPE), atuando no desenvolvimento full stack com Python (Flask), incluindo integração entre front-end e back-end e implementação de autenticação.
+
+Também possuo experiência com aplicações geográficas utilizando ArcGIS (Experience Builder com React), além de automação e manipulação de dados espaciais com Python.
+
+Durante minha formação, participei de projetos práticos com tecnologias como React, Node.js, Java (Spring Boot), TypeScript, MongoDB e Docker, consolidando uma base sólida no desenvolvimento de aplicações web.
   </p>
 </div>
 
 ## Cursos Complementares 🎓
+- **Desenvolvimento Web com PHP, Laravel e Vue.js** – Udemy (57h)  
+  Desenvolvimento de aplicações com Laravel, incluindo APIs, autenticação, banco de dados, MVC, Eloquent ORM e boas práticas. 
+
 - Formação **Explore React com JavaScript** – Alura (68h)  
   JSX, hooks, gerenciamento de estado, React Router e testes básicos.  
 
@@ -42,7 +41,7 @@
 </a> 
 
 ## Principais Conhecimentos 💡
-<img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=vue"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=flask"/> <img src="https://skillicons.dev/icons?i=python"/> 
+<img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=javascript"/> <img src="https://skillicons.dev/icons?i=typescript"/> <img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=vue"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=flask"/> <img src="https://skillicons.dev/icons?i=python"/>  <img src="https://skillicons.dev/icons?i=php"/> <img src="https://skillicons.dev/icons?i=laravel"/> 
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f393.svg" width="35" style="margin-right: 10px;"> Projetos Acadêmicos
 <p>
